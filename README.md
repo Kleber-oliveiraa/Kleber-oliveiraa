@@ -1,5 +1,5 @@
 ### Olá 👋, eu sou o kleber 
-bem-vindo(a) ao meu perfil !!!
+Bem-vindo(a) ao meu perfil !!!
 
 💬 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, focado em aprender mais sobre desenvolvimento front-end e web.
 Aqui irei deixar alguns repositórios de projetos que irei produzir durante meus estudos. 🌱
